@@ -1,0 +1,10 @@
+*
+!Dockerfile
+!constraints.txt
+!requirements-worker.txt
+!download_models.py
+!handler.py
+!test_input.json
+
+!references/
+!references/**
